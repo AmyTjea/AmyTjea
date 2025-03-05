@@ -1,8 +1,6 @@
-## Hi there 👋
-
+## Welcome, welcome stranger 👋
 I'm Amy!
 
-### About me
 I'm currently completing my penultimate year at Monash University, and am on the verge of completing my Bachelor's of Computer Science and Engineering (Software).
 I absolutely love games, and unfortunately have sunk too many hour playing shooters and rogue-likes, although I'd like to argue it just shows that I love a good challenge, even if it means hitting my head on the same wall 💪😤
 
